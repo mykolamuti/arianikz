@@ -1,6 +1,6 @@
 # Astro & Tailwind CSS Starter Kit
 
-by https://lexingtonthemes.com
+by https://arianikz.com
 
 ## License
 
@@ -22,7 +22,7 @@ Now we are using only a CSS file. It's called `global.css` and it's located in t
 This template is open-source software licensed under the [GPL-3.0 license](https://opensource.org/licenses/GPL-3.0). Feel free to fork, modify, and use it in your projects.
 ## Need an attribution-free version?
 
-Checkout [Lexington Themes](https://lexingtonthemes.com/) for free and premium multipage themes & UI Kits
+Checkout [Arian Projects](https://arianikz.com/) for free and premium multipage themes & UI Kits
 For freelancers, developers, businesses, and personal use.
 Beautifully crafted with Astro.js, and Tailwind CSS — Simple & easy to customise.
 

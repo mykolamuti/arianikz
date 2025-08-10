@@ -5,19 +5,19 @@ export interface Template {
 };
 
 const svggradients: Template = {
-  url: "https://www.svggradients.com/",
-  description: " A free collection of SVG Mesh gradients to use in your design tool or HTML!",
-  title: "SVG Gradients"
+  url: "#_",
+  description: "A small, focused tool by Arian.",
+  title: "Arian Project"
 };
 const quicksetup: Template = {
-  url: "https://www.figma.com/community/plugin/1074647052897925336",
-  description: " This amazing plugin lets you create empty pages and dividers, no matter what subscription.",
-  title: "Quick Setup"
+  url: "#_",
+  description: "A small, focused tool by Arian.",
+  title: "Arian Project"
 };
 const vscodethemes: Template = {
-  url: "https://marketplace.visualstudio.com/publishers/wicked-labs",
-  description: " A collection of 7 VS Code themes",
-  title: "VS Code Themes"
+  url: "#_",
+  description: "A small, focused tool by Arian.",
+  title: "Arian Project"
 };
 
 export const byName = {
